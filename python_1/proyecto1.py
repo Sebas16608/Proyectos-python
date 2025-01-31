@@ -16,4 +16,3 @@ name="Sebastian"
 edad=16
 estatura=1.80
 #imprimir concatenacion
-print("Hola"+ name + "tu edad es: " + edad + "y mides: " + estatura)
