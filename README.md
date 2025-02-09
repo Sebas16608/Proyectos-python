@@ -9,6 +9,6 @@ instrucciones: crea un programa pidiendole su edady calcula cuantos años tendra
 # tercer proyecto
 if y else
 instrucciones: Haz un programa que pregunte si hace frío y, dependiendo de la respuesta, recomiende llevar una chaqueta.
-# cuarto proyecto
-bucles
-instrucciones:Haz un programa que cuente del 1 al 10 usando un bucle for.
+# operadores
+en el curso me pidieron que haga un programa donde le pida dos numeros al usuario
+y usted utilice esos numeros para hacer operaciones basicas
