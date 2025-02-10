@@ -30,3 +30,15 @@ Recuerde que para calcular el descuento primero debe multiplicar el valor de la 
 descuento = valor_compra x porcentaje
 
 precio final = valor_compra - descuento
+## promedio universitario
+Imagina que culminaste el 5º semestre de la universidad, en el cual viste las siguientes asignaturas: Seguridad Informática, Ingeniería Web, Inteligencia Artificial, Programación Móvil y Redes; y las notas fueron las siguientes: 5.0, 4.5, 3.6, 3.9 y 4.3 respectivamente. 
+
+ 
+
+Teniendo claro esto, escribe un programa que solicite tu nombre completo, el nombre de las cinco materias y la calificación de cada una. Y como resultado devuelve tu nombre y el promedio obtenido en el semestre.
+
+ 
+
+Recuerda que la fórmula para calcular el promedio es: 
+
+Promedio = (Nota1 + Nota2 + Nota3 + Nota4 + Nota5)/Cantidad de notas
