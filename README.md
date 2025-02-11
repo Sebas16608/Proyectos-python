@@ -42,3 +42,7 @@ Teniendo claro esto, escribe un programa que solicite tu nombre completo, el nom
 Recuerda que la fórmula para calcular el promedio es: 
 
 Promedio = (Nota1 + Nota2 + Nota3 + Nota4 + Nota5)/Cantidad de notas
+## Ejercicio: Adivina el número
+Escribe un programa en Python que genere un número aleatorio entre 1 y 100. Luego, el usuario debe adivinar el número, ingresando valores hasta acertar.
+
+El programa debe dar pistas indicando si el número ingresado es mayor o menor que el número secreto. Cuando el usuario acierte, el programa debe mostrar un mensaje de felicitación y la cantidad de intentos utilizados.
