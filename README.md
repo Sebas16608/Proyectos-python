@@ -46,6 +46,8 @@ Promedio = (Nota1 + Nota2 + Nota3 + Nota4 + Nota5)/Cantidad de notas
 Escribe un programa en Python que genere un número aleatorio entre 1 y 100. Luego, el usuario debe adivinar el número, ingresando valores hasta acertar.
 
 El programa debe dar pistas indicando si el número ingresado es mayor o menor que el número secreto. Cuando el usuario acierte, el programa debe mostrar un mensaje de felicitación y la cantidad de intentos utilizados.
-## ejercicio de variables
+## ejercicios de variables
 ### Area de un triangulo
  Pide la base y la altura, y calcula el área.
+### Cálculo del IMC
+Pide peso (kg) y altura (m), luego calcula el Índice de Masa Corporal.
