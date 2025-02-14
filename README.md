@@ -49,5 +49,9 @@ El programa debe dar pistas indicando si el número ingresado es mayor o menor q
 ## ejercicios de variables
 ### Area de un triangulo
  Pide la base y la altura, y calcula el área.
+ 
+### Conversor de Temperatura
+Convierte de grados Celsius a Fahrenheit.
+
 ### Cálculo del IMC
 Pide peso (kg) y altura (m), luego calcula el Índice de Masa Corporal.
