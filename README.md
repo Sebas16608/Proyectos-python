@@ -46,6 +46,25 @@ Promedio = (Nota1 + Nota2 + Nota3 + Nota4 + Nota5)/Cantidad de notas
 Escribe un programa en Python que genere un número aleatorio entre 1 y 100. Luego, el usuario debe adivinar el número, ingresando valores hasta acertar.
 
 El programa debe dar pistas indicando si el número ingresado es mayor o menor que el número secreto. Cuando el usuario acierte, el programa debe mostrar un mensaje de felicitación y la cantidad de intentos utilizados.
+
+## Ejercicio: Agenda telefónica
+Las agendas telefónicas son una guía donde se encuentran los datos de diferentes personas como su nombre, domicilio y teléfono. Además, sirven para localizar personas, lugares o servicios. 
+
+ 
+
+Dicho lo anterior, escribe un programa que permita guardar nombres y números de teléfono. El programa nos dará el siguiente menú:
+
+(1) Consultar: pide un nombre. Si el nombre se encuentra en la agenda, debe mostrar el teléfono, si no indicar que no existe.
+
+(2) Añadir: pide un nombre. Si el nombre se encuentra en la agenda, indicar que ya existe, si no solicitar el número de teléfono.
+
+(3) Modificar: pide un nombre. Si el nombre no está en la agenda, indicar que no existe, sino solicitar el nuevo número de teléfono.
+
+(4) Borrar: pide un nombre. Si el nombre no está en la agenda, indicar que no existe, sino eliminar el número de teléfono.
+
+(5) Salir: si el usuario digita el número 5, detener el ciclo.
+
+
 ## ejercicios de variables
 ### Area de un triangulo
  Pide la base y la altura, y calcula el área.
