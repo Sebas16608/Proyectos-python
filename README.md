@@ -64,7 +64,6 @@ Dicho lo anterior, escribe un programa que permita guardar nombres y números de
 
 (5) Salir: si el usuario digita el número 5, detener el ciclo.
 
-
 ## ejercicios de variables
 ### Area de un triangulo
  Pide la base y la altura, y calcula el área.
@@ -74,3 +73,6 @@ Convierte de grados Celsius a Fahrenheit.
 
 ### Cálculo del IMC
 Pide peso (kg) y altura (m), luego calcula el Índice de Masa Corporal.
+
+### Intercambiar valores
+Guarda dos valores en variables y luego intercábalos sin usar una variable extra.
