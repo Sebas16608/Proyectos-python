@@ -64,7 +64,7 @@ Dicho lo anterior, escribe un programa que permita guardar nombres y números de
 
 (5) Salir: si el usuario digita el número 5, detener el ciclo.
 
-## ejercicios de variables
+## Ejercicios de variables
 ### Area de un triangulo
  Pide la base y la altura, y calcula el área.
  
@@ -76,3 +76,10 @@ Pide peso (kg) y altura (m), luego calcula el Índice de Masa Corporal.
 
 ### Intercambiar valores
 Guarda dos valores en variables y luego intercábalos sin usar una variable extra.
+
+## Ejercicios con condicionales
+### Número par o impar
+Pide un número y di si es par o impar
+
+### Mayor de tres números
+Pide tres números y muestra el mayor.
