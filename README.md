@@ -90,6 +90,19 @@ Pide un año y di si es bisiesto o no.
 ### Aprobado o reprobado
 Pide una calificación y di si pasa (mínimo 60) o no.
 
-## Ejercicios con Ciclos (for y while)
+## Ejercicios con bucles (for y while)
 ### Contador regresivo
 Pide un número y cuenta hacia atrás hasta 0 con while
+
+### Tabla de multiplicar
+Pide un número y muestra su tabla del 1 al 10 usando for.
+
+### Suma de los primeros N números
+Pide un número N y suma desde 1 hasta N.
+
+### Adivina el número
+Genera un número aleatorio del 1 al 10 y deja que el usuario adivine con while.
+
+## Ejercicios con Funciones (def)
+### Calculadora con funciones
+Usa def para hacer una calculadora con suma, resta, multiplicación y división.
