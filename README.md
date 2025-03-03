@@ -86,3 +86,10 @@ Pide tres números y muestra el mayor.
 
 ### Año bisiesto
 Pide un año y di si es bisiesto o no.
+
+### Aprobado o reprobado
+Pide una calificación y di si pasa (mínimo 60) o no.
+
+## Ejercicios con Ciclos (for y while)
+### Contador regresivo
+Pide un número y cuenta hacia atrás hasta 0 con while
