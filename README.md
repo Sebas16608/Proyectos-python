@@ -106,3 +106,9 @@ Genera un número aleatorio del 1 al 10 y deja que el usuario adivine con while.
 ## Ejercicios con Funciones (def)
 ### Calculadora con funciones
 Usa def para hacer una calculadora con suma, resta, multiplicación y división.
+
+### Número primo
+Crea una función que reciba un número y devuelva si es primo o no.
+
+### Factorial
+Crea una función que calcule el factorial de un número.
