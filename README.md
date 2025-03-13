@@ -112,3 +112,6 @@ Crea una función que reciba un número y devuelva si es primo o no.
 
 ### Factorial
 Crea una función que calcule el factorial de un número.
+
+### Conversor de moneda
+Crea una función que convierta dólares a pesos o euros.
