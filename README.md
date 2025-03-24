@@ -122,3 +122,6 @@ Crea una lista con los números pares del 1 al 20
 
 ### Promedio de calificaciones
 Guarda 5 calificaciones en una lista y calcula el promedio.
+
+### Agenda de contactos
+Usa un diccionario para guardar nombres y teléfonos, y permite buscarlos.
