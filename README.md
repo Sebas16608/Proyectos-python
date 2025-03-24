@@ -115,3 +115,10 @@ Crea una función que calcule el factorial de un número.
 
 ### Conversor de moneda
 Crea una función que convierta dólares a pesos o euros.
+
+## Ejercicios Listas y diccionarios
+### Lista de números pares
+Crea una lista con los números pares del 1 al 20
+
+### Promedio de calificaciones
+Guarda 5 calificaciones en una lista y calcula el promedio.
