@@ -125,3 +125,6 @@ Guarda 5 calificaciones en una lista y calcula el promedio.
 
 ### Agenda de contactos
 Usa un diccionario para guardar nombres y teléfonos, y permite buscarlos.
+
+### Frecuencia de palabras
+Pide una frase y cuenta cuántas veces aparece cada palabra.
